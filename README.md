@@ -2,7 +2,7 @@
 
 Postfix Adapter for Corona motherboards with post out removed.
 
-This designed to fit pogo pins of various lengths.
+This was designed to fit pogo pins of various lengths.
 
 PCB Thickness: .8mm
 
